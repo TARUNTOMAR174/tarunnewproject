@@ -1,5 +1,14 @@
-# tarunnewproject
-Building AI
-##
-FOUR COUNTRY "INSIA","PAK","JAPAN","NORAW"
-
+T, [08.03.21 12:19]
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4"> 
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="R User Library" level="project" /> 
+    <orderEntry type="library" name="R Skeletons" level="application" />
+  </component> <component name="TestRunnerService">
+  <option name="projectConfiguration" value="py.test" />
+  <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>
